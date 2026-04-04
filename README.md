@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Rakhecha</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack & Web3 Developer</h3>
+<h3 align="center">Computer Science Engineering Student </h3>
 
 <img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,7 +9,7 @@
   CGPA: 8.03 / 10
 </h3>
 
-- 🌱 Currently building scalable full-stack applications & exploring Web3 + Blockchain systems  
+- 🌱 Currently building scalable projects exploring Web3 + Blockchain systems  
 - 📊 Strong interest in Machine Learning & Data-driven systems  
 - 📫 Reach me at: **ishaan.rakhecha@gmail.com**
 
