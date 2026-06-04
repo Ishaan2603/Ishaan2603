@@ -97,8 +97,7 @@
 ---
 
 ## 🎯 Career Focus
-
-- Full-Stack Development  
+  
 - Machine Learning Systems  
 - Web3 & Blockchain Applications  
 - Scalable Backend Architectures  
